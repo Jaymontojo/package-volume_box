@@ -1,0 +1,23 @@
+{
+  "name": "volume_box",
+  "version": "1.0.0",
+  "description": "a volume box that makes a string loud or quiet",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jaymontojo/package-volume_box.git"
+  },
+  "keywords": [
+    "NPM",
+    "package"
+  ],
+  "author": "Jay Montojo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Jaymontojo/package-volume_box/issues"
+  },
+  "homepage": "https://github.com/Jaymontojo/package-volume_box#readme"
+}
