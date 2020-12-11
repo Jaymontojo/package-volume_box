@@ -1,7 +1,7 @@
 {
   "name": "volumebox",
   "homepage": "https://github.com/Jaymontojo/package-volume_box",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "makes strings loud or quiet",
   "main": "volumebox.js",
   "private": false,
